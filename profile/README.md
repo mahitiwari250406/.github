@@ -94,7 +94,7 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 
 # @mahitiwari250406 — <sunset with hot air balloon>
 
-<!-- Your representation goes here: SVG, code, ASCII, diagram, whatever. -->
+<!---sunset with hot air balloon>: SVG, code, ASCII, diagram, whatever.>
 
 *What it represents:* one line on the 169pi model, capability, or feature this reflects.
 **Contributed by [@your-github-handle](https://github.com/your-github-handle)**
